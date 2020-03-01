@@ -1,4 +1,4 @@
-libfuse
+libfuse - testing
 =======
 
 About
